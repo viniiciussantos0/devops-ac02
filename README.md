@@ -2,7 +2,7 @@
 
 Nome: Vinícius Sousa dos Santos - RA: 1900969
 
-COMANDO CLONE:
+# COMANDO CLONE:
 1- Criei um repositório via interface web (print 1-criando repositorio via web)
 2- ls mostrando que meu diretório estava vazio antes de clonar (print 2-diretorio vazio)
 3- clone (print 3-clone)
