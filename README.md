@@ -18,4 +18,4 @@ Nome: Vinícius Sousa dos Santos - RA: 1900969
 <p>1- Push do arquivo README.md (print 1-comando push)</p>
 
 # COMANDO FETCH:
-<p>1- Fetch do branch master(print 1-comando fetch)</p>
+<p>1- Fetch do branch master(print 1-comando fetch).</p>
