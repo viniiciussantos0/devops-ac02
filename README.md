@@ -19,3 +19,10 @@ Nome: Vinícius Sousa dos Santos - RA: 1900969
 
 # COMANDO FETCH:
 <p>1- Fetch do branch master(print 1-comando fetch).</p>
+
+# COMANDO PULL:
+<p>1- Problemas ao fazer o pull (print 1-problemas ao fazer o pull)</p>
+<p>2- Resolução do conflito no pull (print 2-resolucao do conflito no pull)</p>
+
+# COMANDO CHECKOUT:
+<p>1- Comando checkout para desfazer uma ação no arquivo README.md (print 1- comando checkout)</p>
